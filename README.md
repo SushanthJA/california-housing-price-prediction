@@ -8,7 +8,7 @@ This dataset appeared in a 1997 paper titled Sparse Spatial Autoregressions by P
 
 ## Data Description
 
-     >>> housing.info()
+    >>> housing.info()
     <class 'pandas.core.frame.DataFrame'>
     RangeIndex: 20640 entries, 0 to 20639
     Data columns (total 10 columns):
