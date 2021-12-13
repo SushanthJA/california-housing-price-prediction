@@ -7,7 +7,8 @@ This dataset is a modified version of the California Housing dataset available f
 This dataset appeared in a 1997 paper titled Sparse Spatial Autoregressions by Pace, R. Kelley and Ronald Barry, published in the Statistics and Probability Letters journal. They built it using the 1990 California census data. It contains one row per census block group. A block group is the smallest geographical unit for which the U.S. Census Bureau publishes sample data (a block group typically has a population of 600 to 3,000 people).
 
 ## Data Description
- >>> housing.info()
+
+     >>> housing.info()
     <class 'pandas.core.frame.DataFrame'>
     RangeIndex: 20640 entries, 0 to 20639
     Data columns (total 10 columns):
