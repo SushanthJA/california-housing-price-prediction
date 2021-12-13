@@ -1,4 +1,4 @@
-# california-housing-price-prediction
+# California Housing Price Prediction
 An attempt to build a machine learning model capable of predicting median house values in Californian districts, given a number of features from these districts.
 
 ## Source
